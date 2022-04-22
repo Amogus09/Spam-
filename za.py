@@ -36,4 +36,4 @@ def main():
 if __name__ == '__main__':
     main()
 time.sleep(10)
-os.system(python3 za.py ODk5NzIwOTcwMjQyMjUyODAx.YmJarw.Syl-qwz5nyAIp0V1mxjMTDA5CFE 947960460400017409 BANU TOLOL HARAM MEMEK @everyone SelfBot Spam Ping By WizzSec)
+os.system("python3 za.py ODk5NzIwOTcwMjQyMjUyODAx.YmJarw.Syl-qwz5nyAIp0V1mxjMTDA5CFE 947960460400017409 BANU TOLOL HARAM MEMEK @everyone SelfBot Spam Ping By WizzSec")
